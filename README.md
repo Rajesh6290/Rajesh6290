@@ -12,7 +12,6 @@
 - 💼 &nbsp; Full Stack Developer crafting seamless experiences.
 - 🌱 &nbsp; Learning advanced Backend Architectures and Frontend Development.
 - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
-- 💬 &nbsp; Ask me about **Technology, Space Science, Black Holes, Psychology, Books.**
 - ⚡ &nbsp; Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
  <p>
